@@ -1,0 +1,12 @@
+spring:
+    application:
+        name: openlp
+        zipkin:
+          baseUrl: http://localhost:9411/
+        
+        
+          
+          
+
+server:
+    port: 1222
